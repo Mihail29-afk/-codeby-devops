@@ -1,1 +1,2 @@
 Content from branch_b
+Content from branch_c
